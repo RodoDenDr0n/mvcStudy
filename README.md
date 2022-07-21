@@ -1,2 +1,2 @@
 # mvcStudy
-Studying general Model View Controller principles
+Studying general Model View Controller principles.
